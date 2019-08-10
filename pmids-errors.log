@@ -1,0 +1,16 @@
+28216301 - error in Publication: <class 'TypeError'>: string indices must be integers
+30707652 - error in Publication: <class 'TypeError'>: string indices must be integers
+28585053 - error in Publication: <class 'TypeError'>: string indices must be integers
+23847372 - error in Publication: <class 'IndexError'>: list index out of range
+2046973 - error in Publication: <class 'IndexError'>: list index out of range
+342621 - error in Publication: <class 'IndexError'>: list index out of range
+7020870 - error in Publication: <class 'TypeError'>: descriptor 'get' requires a 'dict' object but received a 'NoneType'
+1956599 - error in Publication: <class 'IndexError'>: list index out of range
+1204687 - error in Publication: <class 'TypeError'>: descriptor 'get' requires a 'dict' object but received a 'NoneType'
+6504933 - error in Publication: <class 'TypeError'>: descriptor 'get' requires a 'dict' object but received a 'NoneType'
+30300464 - error in Publication: <class 'TypeError'>: string indices must be integers
+28462727 - error in Publication: <class 'TypeError'>: string indices must be integers
+28474412 - error in Publication: <class 'TypeError'>: string indices must be integers
+566404 - error in Publication: <class 'TypeError'>: descriptor 'get' requires a 'dict' object but received a 'NoneType'
+29538798 - error in Publication: <class 'TypeError'>: string indices must be integers
+28762630 - error in Publication: <class 'TypeError'>: string indices must be integers
